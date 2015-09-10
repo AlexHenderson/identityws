@@ -1,0 +1,6 @@
+The database SQL dump is too large for Github. Therefore it can be downloaded from the following link. 
+
+http://surfacespectra.com/identity/identity.sql
+
+Most recent version: 1.0
+Version date: 2015-09-10
